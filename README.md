@@ -32,11 +32,11 @@ Usage: require Ext.ux.direct.RemotingProvider in your Application class.
 
 Tested with:
 
-    - MSIE 6+
-    - Chrome 6+
-    - Firefox 3.6+
-    - Opera 11
-    - Safari 4+
+- MSIE 6+
+- Chrome 6+
+- Firefox 3.6+
+- Opera 11
+- Safari 4+
 
 This extension is released under GPL 3.0 license.
 
