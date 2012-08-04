@@ -2,9 +2,10 @@
  * This class is used internally by Ext.ux.direct.RemotingProvider to represent
  * a Direct method.
  *
- *  Version 0.99.
+ * Version 0.99.
  *  
- *  Copyright (C) 2011-2012 Alexander Tokarev.
+ * Copyright (C) 2011-2012 Alexander Tokarev. Special thanks to IntelliSurvey, Inc
+ * for sponsoring part of my work on this code.
  *
  * This code is licensed under the terms of the Open Source LGPL 3.0 license.
  * Commercial use is permitted to the extent that the code/component(s) do NOT

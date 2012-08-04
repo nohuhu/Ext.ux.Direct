@@ -28,7 +28,7 @@
  * Usage: require Ext.ux.direct.RemotingProvider in your Application class.
  *  
  * Copyright (C) 2011-2012 Alexander Tokarev. Special thanks to IntelliSurvey, Inc.
- * for sponsoring my work on this code.
+ * for sponsoring part of my work on this code.
  *
  * This code is licensed under the terms of the Open Source LGPL 3.0 license.
  * Commercial use is permitted to the extent that the code/component(s) do NOT
